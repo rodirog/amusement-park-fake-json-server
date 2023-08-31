@@ -61,6 +61,37 @@
       "facebookUsername": "betocarreroworld",
       "instagramUsername": "betocarrero",
       "twitterUsername": "betocarrero"
+    },
+    {
+      "id": 3,
+      "name": "Hopi Hari",
+      "email": "fale@hopiharicorp.com.br",
+      "address": {
+        "street": "Rodovia dos Bandeirantes",
+        "suite": "km 72",
+        "state": "SP",
+        "neighborhood": "Vinhedo",
+        "city": "Vinhedo",
+        "zipcode": "13013-082",
+        "geo": {
+          "lat": "-23.09705203313467",
+          "lng": "-47.008334158379355"
+        }
+      },
+      "time": {
+        "openingTime": "11h",
+        "closingTime": "19h"
+      },
+      "ticketPrice": "R$ 119,90",
+      "phone": "(011) 4290-0333",
+      "parkWebsite": "https://www.hopihari.com.br/",
+      "ticketWebsite": "https://www.hopihari.com.br/calendario",
+      "image": "https://i0.statig.com.br/hopihari/img/Montezum-3-1-min.jpg",
+      "logo": "https://scontent.ffln2-3.fna.fbcdn.net/v/t1.6435-9/35235253_1710930508960073_6562772408393007104_n.png?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEKac5grYIHCUCRz0MSTyZO01IxmVEdaD_TUjGZUR1oP-kf7429pr8yCZuHXsI5XjY_vUYgI9nA_x1MfXe5fnRd&_nc_ohc=iYPtuXfZCGIAX9bmTpd&_nc_ht=scontent.ffln2-3.fna&oh=00_AfCd43hgjCvATJnXDerBKaN1sONnEQlTSuGhMJ7LBKiPuw&oe=65185512",
+      "youtubeVideoId": "ul90ghpmLsI",
+      "facebookUsername": "hopihari",
+      "instagramUsername": "hopihari",
+      "twitterUsername": "hopihari"
     }
   ]
 }
