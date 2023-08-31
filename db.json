@@ -6,8 +6,9 @@
       "email": "atendimento@beachpark.com.br",
       "address": {
         "street": "Rua Porto das Dunas",
-        "suite": "2734 - Porto das Dunas",
+        "suite": "2734",
         "state": "CE",
+        "neighborhood": "Porto das Dunas",
         "city": "Aquiraz",
         "zipcode": "61700-000",
         "geo": {
@@ -29,6 +30,37 @@
       "facebookUsername": "BeachParkBrasil",
       "instagramUsername": "beachpark",
       "twitterUsername": "beachpark"
+    },
+    {
+      "id": 2,
+      "name": "Beto Carrero World",
+      "email": "suporteonline@betocarrero.com.br",
+      "address": {
+        "street": "R. Inácio Francisco de Souza",
+        "suite": "1597",
+        "state": "SC",
+        "neighborhood": "Praia de Armação",
+        "city": "Penha",
+        "zipcode": "88385-000",
+        "geo": { 
+          "lat": "-26.79918708873949",
+          "lng": "-48.61403463868378"
+        }
+      },
+      "time": {
+        "openingTime": "10h",
+        "closingTime": "19h"
+      },
+      "ticketPrice": "R$ 109,90",
+      "phone": "+55 47 3261-2222",
+      "parkWebsite": "https://www.betocarrero.com.br/",
+      "ticketWebsite": "https://www.betocarrero.com.br/passaportes",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/29/3d.jpg",
+      "logo": "https://d353vpubtzx8k9.cloudfront.net/imagens/logo30-1679313421.png",
+      "youtubeVideoId": "dYXoJnbnBsY",
+      "facebookUsername": "betocarreroworld",
+      "instagramUsername": "betocarrero",
+      "twitterUsername": "betocarrero"
     }
   ]
 }
