@@ -92,6 +92,37 @@
       "facebookUsername": "hopihari",
       "instagramUsername": "hopihari",
       "twitterUsername": "hopihari"
+    },
+    {
+      "id": 4,
+      "name": "Mirabilandia",
+      "email": "sac@mirabilandia.com.br",
+      "address": {
+        "street": "Av. Prof. Andrade Bezerra",
+        "suite": "1285",
+        "state": "PE",
+        "neighborhood": "Salgadinho",
+        "city": "Olinda",
+        "zipcode": "53110-110",
+        "geo": {
+          "lat": "-8.031749200542246",
+          "lng": "-34.873917461373715"
+        }
+      },
+      "time": {
+        "openingTime": "14h",
+        "closingTime": "20h"
+      },
+      "ticketPrice": "R$ 60,00",
+      "phone": "81-3366-2000",
+      "parkWebsite": "https://mirabilandia.com.br/",
+      "ticketWebsite": "https://loja.mirabilandia.com.br/",
+      "image": "https://i0.wp.com/universodosparques.com.br/wp-content/uploads/2022/09/mirabilandia-wave-swinger.jpg?fit=702%2C390&ssl=1",
+      "logo": "https://mirabilandia.com.br/wp-content/themes/2018/images/logo-mirabilandia.png",
+      "youtubeVideoId": "6hAdGDCQteY",
+      "facebookUsername": "MirabilandiaBrasil",
+      "instagramUsername": "mirabilandiape",
+      "twitterUsername": "MirabilandiaPE"
     }
   ]
 }
