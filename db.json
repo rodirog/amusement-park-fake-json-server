@@ -3,13 +3,13 @@
     {
       "id": 1,
       "name": "Beach Park",
-      "email": "Sincere@april.biz",
+      "email": "atendimento@beachpark.com.br",
       "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
+        "street": "Rua Porto das Dunas",
+        "suite": "2734 - Porto das Dunas",
         "state": "CE",
         "city": "Aquiraz",
-        "zipcode": "92998-3874",
+        "zipcode": "61700-000",
         "geo": {
           "lat": "-3.8438855578813733",
           "lng": "-38.39056982161427"
@@ -20,7 +20,7 @@
         "closingTime": "17h"
       },
       "ticketPrice": "R$ 255,00",
-      "phone": "1-770-736-8031 x56442",
+      "phone": "(85) 4012-3000",
       "parkWebsite": "https://www.beachpark.com.br/mobile/pt/",
       "ticketWebsite": "https://ingresso.beachpark.com.br/",
       "image": "https://img.r7.com/images/2015/12/24/1hxiwrr3ng_8mq6jr2w8y_file.jpg?dimensions=771x420&no_crop=true",
