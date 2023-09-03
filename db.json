@@ -123,6 +123,37 @@
       "facebookUsername": "MirabilandiaBrasil",
       "instagramUsername": "mirabilandiape",
       "twitterUsername": "MirabilandiaPE"
+    },
+    {
+      "id": 5,
+      "name": "Snowland",
+      "email": "snowland@gramadoparks.com",
+      "address": {
+        "street": "Rua Linha Carazal",
+        "suite": "9009",
+        "state": "RS",
+        "neighborhood": "RS-235",
+        "city": "Gramado",
+        "zipcode": "95670-000",
+        "geo": { 
+          "lat": "-29.39338459577672",
+          "lng": "-50.92135660624418"
+        }
+      },
+      "time": {
+        "openingTime": "10h",
+        "closingTime": "17h"
+      },
+      "ticketPrice": "R$ 199,00",
+      "phone": "0800 8003737",
+      "parkWebsite": "https://mirabilandia.com.br/",
+      "ticketWebsite": "https://www.snowland.com.br/ingressos/",
+      "image": "https://ingressos-imagens.s3.us-east-2.amazonaws.com/ingressos/servicos/ingresso-snowland-gramado-parque-de-neve-615ca6f84629e-large.jpg?quality=75",
+      "logo": "https://images.asksuite.com/6e4e9e87-1f2a-48cf-875d-af8d1b49ea1f.jpg",
+      "youtubeVideoId": "Uy6ehVkjDyo",
+      "facebookUsername": "SnowlandGramado",
+      "instagramUsername": "snowlandgramado",
+      "twitterUsername": "cidadedegramado"
     }
   ]
 }
